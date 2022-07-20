@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mubashir</h1>
 <h3 align="center">A passionate backend developer from Pakistan🇵🇰</h3>
+![](https://komarev.com/ghpvc/?username=Mubashir01234)
 <p align="left">
 </p>
 

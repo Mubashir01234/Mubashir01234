@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_2.gif" height="20%" width="20%"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_1.gif" height="20%" width="20%"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_3.gif" height="20%" width="20%"> </p>
+<p align="center"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_2.gif" height="20%" width="20%"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_3.gif" height="20%" width="20%"> </p>
 
 
 <h1 align="center"><b>Hi , I'm Mubashir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>

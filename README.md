@@ -21,10 +21,9 @@
 - A passionate backend developer from Pakistan🇵🇰
 - 🧑‍🎓 Software Engineer
 - 🌱 Always learning new things
-- 🔭 I’m currently working in <a href="https://www.capregsoft.com/" target="blank">CapregSoft Private Limited</a>
 - ☕ Coffee Lover
 - 📄 Know about my experiences <a href="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/Mubashir_Resume.pdf" target="blank">Resume</a>
-
+<!-- - 🔭 I’m currently working in <a href="https://www.capregsoft.com/" target="blank">CapregSoft Private Limited</a> -->
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

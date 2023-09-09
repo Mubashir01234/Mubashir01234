@@ -35,14 +35,15 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
+<be>
 <div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mubashir01234&theme=algolia&background=0d1117&hide_border=true" />
+<!-- </div> -->
 
-<a href="https://github.com/Mubashir01234/">
+<!-- <a href="https://github.com/Mubashir01234/">
   <img src="https://github-readme-stats.vercel.app/api?username=Mubashir01234&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mubashir01234&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Mubashir01234"/>
-</a>
+</a> -->
 </div>
 <!-- <p align="center">
 <a href="https://www.linkedin.com/in/mubashir-khan-aa0035202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="40" width="40" /></a>

@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_2.gif" height="20%" width="20%"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_3.gif" height="20%" width="20%"> </p>
 
 
-<h1 align="center"><b>Hi , I'm Mubashir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi👋, I'm Mubashir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Golang+Developer,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..&hearts;"></a>
@@ -37,7 +37,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <be>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mubashir01234&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mubashir01234&theme=algolia&background=0d1117&hide_border=true" />
 <!-- </div> -->
 
 <!-- <a href="https://github.com/Mubashir01234/">
@@ -65,4 +65,11 @@
  <h2> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</h2>
 
 </div> -->
+<h3 align="center"><b>Thank you for your visit✨ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h3>
+
+<div align="center">
+	
+<img src="https://profile-counter.glitch.me/Mubashir01234/count.svg"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

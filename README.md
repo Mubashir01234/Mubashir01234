@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,docker,kubernetes,py,git,github,aws,firebase,gcp,heroku,html,css,figma,solidity,md,bash,mysql,postgres,dynamodb,mongodb,redis,sqlite,ipfs,vim,jenkins,linux,vscode,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,docker,kubernetes,py,git,github,aws,firebase,gcp,heroku,md,bash,mysql,postgres,mongodb,redis,sqlite,ipfs,jenkins,linux,vscode,postman&perline=6)](https://skillicons.dev)
 
 <br>
 

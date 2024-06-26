@@ -22,7 +22,7 @@
 - 🧑‍🎓 Software Engineer
 - 🌱 Always learning new things
 - ☕ Coffee Lover
-- 📄 Know about my experiences <a href="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/Mubashir_Resume.pdf" target="blank">Resume</a>
+<!--- 📄 Know about my experiences <a href="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/Mubashir_Resume.pdf" target="blank">Resume</a> -->
 <!-- - 🔭 I’m currently working in <a href="https://www.capregsoft.com/" target="blank">CapregSoft Private Limited</a> -->
 <br><br>
 
